@@ -9,9 +9,9 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
+  name: '个人作品集',
   domain: 'https://dot-outrigger-2a9.notion.site/37a8275338cb4f66a59809fb1436ccd8?v=5d895748b12f473aaed12795525cdb83',
-  author: 'Travis Fischer',
+  author: 'Ashley',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
